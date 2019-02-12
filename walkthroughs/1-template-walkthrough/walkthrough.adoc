@@ -11,7 +11,11 @@ image::images/che-error.png[diagram, role="integr8ly-img-responsive"]
 [time=5]
 == My first task
 
-// Add your own task here
+[type=taskResource]
+.Useful links
+****
+* link:https://google.com[Task related link]
+****
 
 === My first Procedure
 
