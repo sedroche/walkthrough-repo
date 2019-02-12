@@ -38,6 +38,11 @@ NodeJS Frontend App Route (provisioned from walkthrough.json): {route-frontend-h
 
 . Click on link:{openshift-url}[Openshift Console]
 
+
+. Log into the link:{route-cakephp-mysql-example-host}[CakePHP app].
+
+
+
 [time=5]
 == My first task
 
