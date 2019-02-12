@@ -6,6 +6,8 @@
 * link:https://google.com[Helpful link, window="_blank"]
 ****
 
+image::images/che-error.png[diagram, role="integr8ly-img-responsive"]
+
 [time=5]
 == My first task
 
