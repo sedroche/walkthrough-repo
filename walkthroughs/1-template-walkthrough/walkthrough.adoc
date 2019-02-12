@@ -7,6 +7,8 @@
 
 // Add your own task here
 
-=== Step
+=== My first Procedure
 
-// Add steps to your task
+. First step
+. Second step
+. Third step
