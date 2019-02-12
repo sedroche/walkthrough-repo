@@ -3,7 +3,7 @@
 // This is a template meant to be used as a starting point for walkthrough development
 
 [time=5]
-== Task
+== My first task
 
 // Add your own task here
 
